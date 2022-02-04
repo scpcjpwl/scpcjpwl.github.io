@@ -1,0 +1,37 @@
+<?xml-stylesheet type="text/xsl" href="https://scpcjpwl.github.io/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://scpcjpwl.github.io/post/blog/</loc>
+    <lastmod>2022-02-04T16:17:59+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://scpcjpwl.github.io/</loc>
+    <lastmod>2022-02-04T16:17:59+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://scpcjpwl.github.io/post/</loc>
+    <lastmod>2022-02-04T16:17:59+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://scpcjpwl.github.io/categories/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://scpcjpwl.github.io/tags/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+</urlset>

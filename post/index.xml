@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Even - A super concise theme for Hugo</title>
+    <link>https://scpcjpwl.github.io/post/</link>
+    <description>Recent content in Posts on Even - A super concise theme for Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 04 Feb 2022 16:17:59 +0800</lastBuildDate><atom:link href="https://scpcjpwl.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog</title>
+      <link>https://scpcjpwl.github.io/post/blog/</link>
+      <pubDate>Fri, 04 Feb 2022 16:17:59 +0800</pubDate>
+      
+      <guid>https://scpcjpwl.github.io/post/blog/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
