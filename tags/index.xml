@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Even - A super concise theme for Hugo</title>
+    <title>Tags on Huang&#39;s Blog</title>
     <link>https://scpcjpwl.github.io/tags/</link>
-    <description>Recent content in Tags on Even - A super concise theme for Hugo</description>
+    <description>Recent content in Tags on Huang&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://scpcjpwl.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 06 Feb 2022 20:28:14 +0800</lastBuildDate><atom:link href="https://scpcjpwl.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>高中学习</title>
+      <link>https://scpcjpwl.github.io/tags/%E9%AB%98%E4%B8%AD%E5%AD%A6%E4%B9%A0/</link>
+      <pubDate>Sun, 06 Feb 2022 20:28:14 +0800</pubDate>
+      
+      <guid>https://scpcjpwl.github.io/tags/%E9%AB%98%E4%B8%AD%E5%AD%A6%E4%B9%A0/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
